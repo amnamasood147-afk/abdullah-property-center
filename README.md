@@ -2,8 +2,8 @@
 
 A multi-page real-estate website built for a local property business in Sargodha, Pakistan. Visitors can browse listings, filter by purpose/type/area, and send an enquiry that opens pre-filled in WhatsApp — no backend or database required.
 
-**Live site:** <!-- your Netlify link here, e.g. https://abdullah-property-center.netlify.app -->
-**Author:** <!-- your name / GitHub username -->, Software Engineering student (5th semester)
+ **Live site:** https://abdullahpropertycenter.netlify.app
+**Author:** Amna Masood, Software Engineering student (5th semester)
 
 ## Why I built this
 
